@@ -36,7 +36,7 @@ En el diseño original se había pensado crear a la derecha de la pantalla una d
 
 También se ha decidido poner arriba en la barra de navegación que sea fija para que así siempre se vea.
 
-Se adjuntan las fotos del diseño.
+Se adjuntan las fotos del diseño en la carpeta proyecto.
 
 
 
