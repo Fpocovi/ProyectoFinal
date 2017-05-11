@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+	<channel>
+		<title>Imperial News</title>
+		<atom:link href="https://rawgit.com/fpocovi/Proyectofinal/master/rss/rss.xml" rel="self" type="application/rss+xml"/>
+		<link>https://rawgit.com/fpocovi/Proyectofinal/master/news.html</link>
+		<description>UltraNews</description>
+		<language>es-es</language>
+		<category>News</category>
+		<lastBuildDate>Tue, 11 May 2017 22:00:00 GMT</lastBuildDate>
+		<pubDate>Tue, 11 May 2017 22:00:00 GMT</pubDate>
+		
+		<item>
+			<guid isPermaLink="false">Noti1</guid>
+			<title>Star Wars Battlefront 2 tendrá modo campaña: todos los detalles</title>
+			<link>https://rawgit.com/fpocovi/Proyectofinal/master/news1.html</link>
+			<description><![CDATA[ <p>Para toda una generación de estadounidenses criados durante la Segunda Guerra Mundial, Joe DiMaggio fue uno de sus mejores deportistas, el héroe del béisbol que hizo soñar a una nación en guerra. Para el resto, el jugador de los Yankees será por siempre el segundo esposo de Marilyn Monroe, el hombre que estuvo junto a la actriz cuando la encontraron muerta y que la vistió para su última puesta en escena antes de ser enterrada. Alguien que los conoció a todos: a Frank Sinatra y a su Rat Pack, a los Kennedy y a bellezas más modernas como Elle Macpherson. Pero él siempre fue muy reservado. Ahora ven la luz algunas de sus confesiones.</p>]]></description>
+			<category>Sociedad</category>
+		</item>
+		<item>
+			<guid isPermaLink="false">Noti2</guid>
+			<title>Todo lo que necesitas saber sobre Star Wars Battlefront II</title>
+			<link>https://rawgit.com/fpocovi/Proyectofinal/master/news2.html</link>
+			<description><![CDATA[ <p>El diputado de Unidos PodemosDiego Cañamero no ha acudido ante el Tribunal Supremo este mediodía para su declaración voluntaria como investigado por dos delitos, por lo que el tribunal, ante su incomparecencia, tramitará el suplicatorio para actuar contra él, tal y como ha solicitado ya el fiscal.</p> ]]></description>
+			<category>Tribunales</category>
+		</item>
+		<item>
+			<guid isPermaLink="false">Noti3</guid>
+			<title>Star Wars VIII: Los últimos Jedi - El collar de Luke esconde un secreto (RUMOR)</title>
+			<link>https://rawgit.com/fpocovi/Proyectofinal/master/news.html</link>
+			<description><![CDATA[ <p>La multinacional invertirá 38 millones de euros para aumentar la producción hasta las 38.000 toneladas anuales</p> ]]></description>
+			<category>Nacional</category>
+		</item>
+	</channel>
+
+</rss>
