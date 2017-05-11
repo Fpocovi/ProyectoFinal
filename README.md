@@ -32,4 +32,13 @@ http://cadenaser.com/ser/2017/04/16/deportes/1492358553_743238.html?id_externo_p
 
 Todas las fotos han sido optimizadas con PNGaunlet.
 
+En el diseño original se había pensado crear a la derecha de la pantalla una división completa para añadir la publicidad. Poco después desistí de esa idea y preferí más hacer una publicidad estática de toda la longitud de la pantalla y del ancho correspondiente pero que al hacer al moverse hacia abajo por la web no se desplazara.
+
+También se ha decidido poner arriba en la barra de navegación que sea fija para que así siempre se vea.
+
+Se adjuntan las fotos del diseño.
+
+
+
+
 
